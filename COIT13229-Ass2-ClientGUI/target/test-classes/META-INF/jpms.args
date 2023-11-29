@@ -1,0 +1,4 @@
+--patch-module
+com.triplethreat.coit13229.ass2.clientgui=_
+--add-reads
+com.triplethreat.coit13229.ass2.clientgui=ALL-UNNAMED
